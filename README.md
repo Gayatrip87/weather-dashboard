@@ -1,31 +1,19 @@
-# Full Premium Weather Dashboard Fixed
+# Weather Dashboard
 
-## Fixed functions
+A modern weather forecast dashboard built with React, Vite, and OpenWeather API.
 
-- Dark / Light mode now visibly changes whole UI.
-- Weather Map now opens in a full popup modal.
-- Map has "Open exact city in browser" link.
-- Celsius/Fahrenheit unit button added.
+## Features
+- Current weather
+- Weather forecast
+- Rainfall trend
+- Dark/Light mode
+- Live background
+- Responsive UI
 
-## Run
+## Tech Stack
+React, Vite, CSS, OpenWeather API
 
-```bash
+## Run Project
+
 npm install
 npm run dev
-```
-
-Open:
-
-```text
-http://localhost:5173
-```
-
-
-## Live Background Added
-
-- Sunny animated glow
-- Night moon and moving stars
-- Moving clouds
-- Rain animation
-- Snow animation
-- Thunder/lightning effect
